@@ -2,7 +2,7 @@
 
 .. _rcs_subversion:
 
-Clase 08 - PIII 2016
+Clase 08 - PIII 2016 (No actualizado)
 ====================
 
 **Probando filtros en Proteus y en Placa**

@@ -2,7 +2,7 @@
 
 .. _rcs_subversion:
 
-Clase 10 - PIII 2016
+Clase 10 - PIII 2016 (No actualizado)
 ====================
 
 **Transformada Discreta de Fourier (DFT)**

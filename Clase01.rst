@@ -2,12 +2,12 @@
 
 .. _rcs_subversion:
 
-Clase 01 - PIII 2016 
+Clase 01 - PIII 2017
 ====================
 
 :Autor: César Osimani
 :Correo: cosimani@ubp.edu.ar
-:Fecha: 10 de agosto de 2016
+:Fecha: 10 de agosto de 2017
 :Regularidad: 
 	- 2 prácticos parciales (que pueden ser avances del proyecto final)
   	

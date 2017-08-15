@@ -2,7 +2,7 @@
 
 .. _rcs_subversion:
 
-Clase 11 - PIII 2016
+Clase 11 - PIII 2016 (No actualizado)
 ====================
 
 Grabación de dsPIC con Pickit 3

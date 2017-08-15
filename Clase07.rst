@@ -2,7 +2,7 @@
 
 .. _rcs_subversion:
 
-Clase 07 - PIII 2016
+Clase 07 - PIII 2016 (No actualizado)
 ====================
 
 **ADC automático para dsPIC30F4013**

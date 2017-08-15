@@ -2,7 +2,7 @@
 
 .. _rcs_subversion:
 
-Clase 05 - PIII 2016
+Clase 05 - PIII 2016 (No actualizado)
 ====================
 
 **Pinout de los dsPIC que utilizaremos**

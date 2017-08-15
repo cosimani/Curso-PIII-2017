@@ -2,7 +2,7 @@
 
 .. _rcs_subversion:
 
-Clase 03 - PIII 2016
+Clase 03 - PIII 2016  (No actualizado)
 ====================
 
 .. figure:: images/clase03/manejo_osciladores.png

@@ -2,7 +2,7 @@
 
 .. _rcs_subversion:
 
-Clase 06 - PIII 2016
+Clase 06 - PIII 2016 (No actualizado)
 ====================
 
 Guía de ejercicios

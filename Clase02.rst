@@ -2,7 +2,7 @@
 
 .. _rcs_subversion:
 
-Clase 02 - PIII 2016
+Clase 02 - PIII 2016 (No actualizado)
 ====================
 
 **Interrupciones**

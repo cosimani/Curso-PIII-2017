@@ -2,7 +2,7 @@
 
 .. _rcs_subversion:
 
-Clase 09 - PIII 2016
+Clase 09 - PIII 2016 (No actualizado)
 ====================
 
 Manualidades electrónicas
