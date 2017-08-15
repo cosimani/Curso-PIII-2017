@@ -106,7 +106,6 @@ Softwares
 *Resolución*
 
 .. code-block::c
-
 	void configuracionInicial()  {
 	    TRISBbits.TRISB0 = 0;
 	    LATBbits.LATB0 = 0;
