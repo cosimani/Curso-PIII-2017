@@ -103,7 +103,40 @@ Softwares
 	- En la función main encender y apagar un LED en RB0 cada 1 segundo
 	- Tener en cuenta que por defecto un nuevo proyecto en mikroC para el dsPIC30F4013 viene con XT w/PLL 8x
 	
-*Resolución*
+
+
+Ejercicio:
+==========
+
+- En un archivo de cabecera definir la clase Listado con todos sus métodos off-line
+- Agregar un método que inserte un elemento en la posición i desplazando los otros
+
+.. code-block::
+
+	bool insert(int I, T elemento)
+
+- Agregar método que elimine todos los elementos
+
+.. code-block::
+
+	void clear()
+
+- Método que elimine una cantidad x de elementos. Los últimos o los primeros según el bool.
+
+.. code-block::
+	
+	void erase(int x, bool front_or_back)
+	
+- Método que elimine el elemento de la posición i.
+
+.. code-block::
+	
+	void borrar(int i)
+
+
+
+Resolución
+==========
 
 .. code-block::c
 	void configuracionInicial()  {
