@@ -138,7 +138,8 @@ Ejercicio:
 Resolución
 ==========
 
-.. code-block::c
+.. code-block::
+
 	void configuracionInicial()  {
 	    TRISBbits.TRISB0 = 0;
 	    LATBbits.LATB0 = 0;
