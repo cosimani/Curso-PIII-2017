@@ -104,8 +104,7 @@ Softwares
 	- Tener en cuenta que por defecto un nuevo proyecto en mikroC para el dsPIC30F4013 viene con XT w/PLL 8x
 	
 
-Resolución
-==========
+*Resolución*
 
 .. code-block::
 
