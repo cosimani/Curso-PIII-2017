@@ -9,13 +9,23 @@ Clase 01 - PIII 2017
 :Correo: cosimani@ubp.edu.ar
 :Fecha: 16 de agosto de 2017
 :Regularidad: 
-	- 2 prácticos parciales (que pueden ser avances del proyecto final)
-  	
+	- 2 parciales (que pueden ser avances del proyecto final)
+
+	- 3er parcial: Entrega de todos los ejercicios publicados en GitHub. Se promedia la nota de cada ejercicio.
+
 	- Proyecto final: Individual o 2 alumnos 
 	
 	- Deadline para entregar el resumen (idea) del proyecto final: Una semana antes del 1er parcial
 	
 	- Entregar la idea antes del Deadline evita realizar los parciales
+:Promoción directa: 
+	- No rinde final y la nota final de la materia será el promedio de los parciales.
+
+	- Asistencia del 90% o superior
+
+	- Los 2 parciales con 8 o más. También vale la entrega de avances del proyecto mencionado anteriormente.
+
+	- 3er parcial: Entrega de todos los ejercicios publicados en GitHub con 8 o más.
 :Final:
 	- Entrega de un trabajo integrador.
 :Temas principales: 
