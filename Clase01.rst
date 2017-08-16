@@ -86,7 +86,7 @@ Softwares
 *Proteus*
 	- Conjunto de programas para diseño y simulación
 	- Desarrollado por Labcenter Electronics (http://www.labcenter.com)
-	- Versión actual: 8.3
+	- Versión actual: 8.6
 	- Versión 8.1 para compartir. Algunos problemas con Windows 7
 	- Versión 7.9 para compartir. Estable para XP, Windows 7 y Windows 8
 	- Herramientas principales: ISIS y ARES
@@ -104,8 +104,8 @@ Softwares
 *mikroC para dsPIC*
 	- Compilador C para dsPIC
 	- Incluye bibliotecas de programación
-	- Última versión 6.2.1
-	- Desarrollado por MikroElektronika ( http://www.mikroe.com/mikroc/dspic )
+	- Última versión 7.0.1 (febrero de 2017)
+	- Desarrollado por MikroElektronika ( https://www.mikroe.com/mikroc/#dspic )
 	- MikroElektronika también dispone de placas de desarrollo como la Easy dsPIC que disponemos en el Lab
 	
 *Ejercicio:* Crear un programa "Hola mundo" para el dsPIC30F4013.
