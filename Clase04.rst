@@ -245,6 +245,12 @@ Ejemplo
 		return 0;
 	}
 
+
+**Ejercicio 1:**
+
+- Adaptarlo para llevarlo a la placa Easy dsPIC con el dsPIC30F4013
+
+
 Generador de señales
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -338,17 +344,17 @@ Generador de señales
 
 .. figure:: images/clase07/dac_proteus.png
 
-**Ejercicio 1:**
+**Ejercicio 2:**
 
 - Generar una señal de 4Hz pensado para aplicar un efecto trémolo (variación periódica del volumen) a una señal de audio que está siendo muestreada a 4kHz.
 
-**Ejercicio 2:**
+**Ejercicio 3:**
 
 - Aplicar el trémolo de 4Hz a la señal generada de 100Hz.
 
 .. figure:: images/clase07/captura_tremolo.png
 
-**Ejercicio 3:**
+**Ejercicio 4:**
 
 - Muestrear una señal de audio y aplicar el trémolo anterior.
 
