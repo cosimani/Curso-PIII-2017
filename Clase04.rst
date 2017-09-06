@@ -2,8 +2,9 @@
 
 .. _rcs_subversion:
 
-Clase 04 - PIII 2016 (No actualizado)
+Clase 04 - PIII 2017
 ====================
+(Fecha: 6 de septiembre)
 
 Conversor AD
 ============	

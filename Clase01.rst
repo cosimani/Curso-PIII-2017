@@ -4,6 +4,7 @@
 
 Clase 01 - PIII 2017
 ====================
+(Fecha: 16 de agosto)
 
 :Autor: César Osimani
 :Correo: cosimani@ubp.edu.ar

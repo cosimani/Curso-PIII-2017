@@ -2,8 +2,9 @@
 
 .. _rcs_subversion:
 
-Clase 03 - PIII 2016  (No actualizado)
+Clase 03 - PIII 2017
 ====================
+(Fecha: 31 de agosto)
 
 .. figure:: images/clase03/manejo_osciladores.png
 
