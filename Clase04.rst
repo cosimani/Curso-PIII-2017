@@ -17,7 +17,7 @@ Clase 04 - PIII 2017
 .. figure:: images/clase05/dspic30f3010.png
    :target: http://ww1.microchip.com/downloads/en/DeviceDoc/70141F.pdf
 
-.. figure:: images/clase05/dspic30f4011.png
+.. figure:: images/clase05/dspic30f4011.jpg
    :target: http://ww1.microchip.com/downloads/en/devicedoc/70135C.pdf
   
 Ejemplo: ADC controlando los momentos de muestreo con señal cuadrada externa
