@@ -9,7 +9,7 @@ Clase 06 - PIII 2017
 Ejercicio
 =========
 
-Muestrear una señal analógica (100 Hz - offset de 2 V - 4 Vpp), aplicarle un trémolo y mostrar la resultante luego de un DAC R-2R.
+Muestrear una señal analógica (100 Hz, offset de 2 V y 4 Vpp), aplicarle un trémolo y mostrar la resultante luego de un DAC R-2R.
 
 **Especificaciones:**
 
@@ -34,27 +34,27 @@ Muestrear una señal analógica (100 Hz - offset de 2 V - 4 Vpp), aplicarle un t
     Índice de modulación del 20%
 
 :Juan Cruz:
-    Frecuencia del trémolo: 18 Hz
+    Frecuencia del trémolo: 4 Hz
 	
     Índice de modulación del 30%
 
 :Francisco:
-    Frecuencia del trémolo: 8 Hz
+    Frecuencia del trémolo: 6 Hz
 	
     Índice de modulación del 40%
 
 :Gonzalo:
-    Frecuencia del trémolo: 23 Hz
+    Frecuencia del trémolo: 8 Hz
 	
     Índice de modulación del 50%
 
 :Marcos:
-    Frecuencia del trémolo: 41 Hz
+    Frecuencia del trémolo: 10 Hz
 	
     Índice de modulación del 60%
 
 :Matías:
-    Frecuencia del trémolo: 29 Hz
+    Frecuencia del trémolo: 12 Hz
 	
     Índice de modulación del 70%
 
