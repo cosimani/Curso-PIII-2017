@@ -55,8 +55,8 @@ Clase 07 - PIII 2017
 	    ADCON3bits.SAMC = 31;
 	    ADCON3bits.ADCS = 55;
 
-	    ADCHSbits.CH0SA = 0b0001;
-	    ADCHSbits.CH0SB = 0b0000;
+	    ADCHSbits.CH0NA = 0b0;     // 0 para usar VRef-
+	    ADCHSbits.CH0SA = 0b0001;  // 0b0000 para AN0 / 0b0001 para AN1 / 0b0010 para AN2
 
 	    ADCON1bits.ADON = 1;
 	}
