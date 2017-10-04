@@ -179,6 +179,14 @@ Programación de filtros
 	    }
 	}
 
+**Material extra de consulta sobre filtros**		
+
+/home/cosimani/Proyecto/2017/PIII2017/Curso-PIII-2017/images/clase08
+
+.. figure:: images/clase08/portada-material-consulta-filtros.png
+	:target: images/clase08/material-consulta-filtros.pdf
+
+
 **Ejercicio 15:** 
 
 - Programar esto y controlar en Proteus. 
