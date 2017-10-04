@@ -2,7 +2,7 @@
 
 .. _rcs_subversion:
 
-Diapositiva 07 - PIII 2015
+Diapositiva 07 - PIII 2017
 ==========================
 
 **Comparación de filtros**

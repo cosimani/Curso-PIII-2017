@@ -2,7 +2,7 @@
 
 .. _rcs_subversion:
 
-Diapositiva 05 - PIII 2015
+Diapositiva 05 - PIII 2017
 ==========================
 
 **Filtros FIR de ventana**

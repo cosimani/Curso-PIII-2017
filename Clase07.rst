@@ -24,7 +24,7 @@ Clase 07 - PIII 2017
 
 **Ejercicio 14:** Adaptar el programa para el dsPIC33FJ32MC202 y controlarlo en Proteus.
 
-**Resolución Ejercicio 1**
+**Código de ejemplo**
 
 .. code-block:: c
 

@@ -2,7 +2,7 @@
 
 .. _rcs_subversion:
 
-Diapositiva 04 - PIII 2015
+Diapositiva 04 - PIII 201
 ==========================
 
 **Filtros de promedio móvil**

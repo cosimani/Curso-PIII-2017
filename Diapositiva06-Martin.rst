@@ -2,7 +2,7 @@
 
 .. _rcs_subversion:
 
-Diapositiva 06 - PIII 2015
+Diapositiva 06 - PIII 2017
 ==========================
 
 **Filtros Recursivos**
