@@ -110,7 +110,7 @@ Secuencia de interrupción
         }
     }
 
-**Ejercicio:** Conectar en RB0 y RB1 dos leds. Programar para que cada uno encienda en distintos tiempos. Por ejemplo:
+**Ejercicio 2:** Conectar en RB0 y RB1 dos leds. Programar para que cada uno encienda en distintos tiempos. Por ejemplo:
 
 - El LED en RB0 que encienda y apague cada 250 ms
 - El LED en RB1 que encienda y apague cada 133 ms
@@ -154,23 +154,23 @@ El ejemplo muestra cómo el dsPIC reacciona a un flanco de señal ascendente en 
 - Dentro de la función, el software debe poner a cero el bit menos significativo de IFS0. Si no, siempre pensará que hay interrupción.
 - Luego incrementamos en 1 LATD.
 
-*Ejercicio*: Crear un programa con lo siguiente:
+*Ejercicio 3:* Crear un programa con lo siguiente:
 	- Usar el dsPIC33FJ32MC202 
 	- Interrupción externa INT1
 	- Flanco descendente
 	- Pulsador en INT1 con resistencia en Pull up.
 	
-*Ejercicio*: Regulador de tensión para los dsPIC33F.
+*Ejercicio 4:* Regulador de tensión para los dsPIC33F.
 	- Alimentación desde un conector USB.
 	- Utilizar herramientas de medición para asegurarse de los voltajes obtenidos.
 
-*Ejercicio*: Alimentar el dsPIC33FJ32MC202.
+*Ejercicio 5:* Alimentar el dsPIC33FJ32MC202.
 	- Conectar el Master Clear
 	- Utilizar capacitores de desacoplo
 	- Conectar un cristal de cuarzo
 	- Grabarle un programa creado anteriormente
 
-**Proteus (primer proyecto)**
+**Deseñar en Proteus**
 
 - New Design
 - Component mode (panel izquierdo)

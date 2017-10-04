@@ -249,7 +249,7 @@ Ejemplo
 	}
 
 
-**Ejercicio 1:**
+**Ejercicio 8:**
 
 - Adaptarlo para llevarlo a la placa Easy dsPIC con el dsPIC30F4013
 

@@ -187,17 +187,17 @@ Generador de señales
 
 
 
-**Ejercicio:**
+**Ejercicio 9:**
 
 - Generar una señal de 4Hz pensado para aplicar un efecto trémolo (variación periódica del volumen) a una señal de audio que está siendo muestreada a 4kHz.
 
-**Ejercicio:**
+**Ejercicio 10:**
 
 - Aplicar el trémolo de 4Hz a la señal generada de 100Hz.
 
 .. figure:: images/clase07/captura_tremolo.png
 
-**Ejercicio:**
+**Ejercicio 11:**
 
 - Muestrear una señal de audio y aplicar el trémolo anterior.
 

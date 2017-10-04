@@ -179,22 +179,14 @@ Programación de filtros
 	    }
 	}
 
-**Ejercicio 3:** 
+**Ejercicio 15:** 
 
 - Programar esto y controlar en Proteus. 
 - Analizar si la frecuencia de muestreo es la misma con el ADC encendido y apagado. Es decir, realizando el procesamiento de la señal o no.
 
-**Ejercicio 4:** 
+**Ejercicio 16:** 
 
 - Intentar utilizar el código que genera el Filter Designer Tool del mikroC. 
-
-
-
-
-
-
-
-
 
 
 **Probando filtros en Proteus y en Placa**

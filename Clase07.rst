@@ -20,9 +20,9 @@ Clase 07 - PIII 2017
 
 .. figure:: images/clase08/adc_auto_ejer_2.png
 
-**Ejercicio 1:** Programar esto y controlar con el EasydsPIC si la frecuencia de muestreo está bien.
+**Ejercicio 13:** Programar esto y controlar con el EasydsPIC si la frecuencia de muestreo está bien.
 
-**Ejercicio 2:** Adaptar el programa para el dsPIC33FJ32MC202 y controlarlo en Proteus.
+**Ejercicio 14:** Adaptar el programa para el dsPIC33FJ32MC202 y controlarlo en Proteus.
 
 **Resolución Ejercicio 1**
 
@@ -76,7 +76,7 @@ Clase 07 - PIII 2017
 	    }
 	}
 
-**Prácticos sobre modulación en amplitud**
+**Práctico sobre modulación en amplitud charlado en clase**
 
 .. figure:: images/clase07/am1.png
 

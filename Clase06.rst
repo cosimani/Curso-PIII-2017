@@ -6,8 +6,8 @@ Clase 06 - PIII 2017
 ====================
 (Fecha: 20 de septiembre)
 
-Ejercicio
-=========
+Ejercicio 12
+============
 
 Muestrear una señal analógica (100 Hz, offset de 2 V y 4 Vpp), aplicarle un trémolo y mostrar la resultante luego de un DAC R-2R.
 
