@@ -77,7 +77,7 @@ Clase 10 - PIII 2017
 
 	// dsPIC30F4013
 	// Placa Easy dsPIC 
-	// Entrada analogica AN8 - VRef es AVdd y AVss -
+	// Entrada analogica AN7 - VRef es AVdd y AVss -
 	// Detecta las frecuencias 100 Hz, 200 Hz, 300 Hz, ..., 6300 Hz
 	// Publica el resultado en binario en los puertos RB0-RB5 (valores desde 1 al 63)
 
