@@ -273,9 +273,6 @@ Clase 10 - PIII 2017
 
 - Elegir una frecuencia particular y visualizar en los puertos RB la potencia de esa frecuencia (como un vúmetro digital).
 
-**Ejemplo: FFT de entrada en AN8 y envío de datos a través de UART**
-
-- `Descargar desde aquí <https://github.com/cosimani/Curso-PIII-2016/blob/master/resources/clase10/FFTyUART.rar?raw=true>`_
 
 
 

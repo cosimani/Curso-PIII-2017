@@ -2,40 +2,19 @@
 
 .. _rcs_subversion:
 
-Clase 11 - PIII 2016 (No actualizado)
+Clase 11 - PIII 2017
 ====================
+(Fecha: 1 de noviembre)
 
-Grabación de dsPIC con Pickit 3
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Ejemplo: FFT de entrada en AN8 y envío de datos a través de UART**
 
-- El Pickit 3 permite programar el dsPIC grabando el archivo .hex compilado con el mikroC
-- Requiere el aplicativo programador. `Descargar desde aquí <https://github.com/cosimani/Curso-PIII-2016/blob/master/resources/clase11/PICkit3Setup.rar?raw=true>`_
+- `Descargar desde aquí <https://github.com/cosimani/Curso-PIII-2016/blob/master/resources/clase10/FFTyUART.rar?raw=true>`_
 
-.. figure:: images/clase11/pickit3_1.png
+**Ejemplo: FFT de entrada en AN7 y envío de datos a través de UART a una aplicación C++**
 
-- Conectar el Pickit 3 a la PC y esperar que instale controladores (la instalación del aplicativo instala los controladores también).
+- `Descargar desde aquí la aplicación portable <http://www.vayra.com.ar/piii2017/portable.rar>`_
 
-- Para abrirlo ejecutamos:
+- `Descargar desde aquí el código fuente C++ <http://www.vayra.com.ar/piii2017/fuente.rar>`_
 
-.. figure:: images/clase10/im4.png
-
-- Podemos probar conectando la Demo board que viene con el PicKit 3 ( más info en: http://ww1.microchip.com/downloads/en/DeviceDoc/41296B.pdf )
-
-- Le damos a Check Comunication y nos detecta la Demo Board conectada:
-
-.. figure:: images/clase10/im6.png
-
-- Si conectamos el circuito de grabación del dsPIC30F3010, también lo detecta:
-
-.. figure:: images/clase10/im7.png
-
-- Se puede leer el dsPIC y grabar el firmware en un .hex y también se puede escribir nuestro .hex creado con mikroC.
-
-- Se conecta de la siguiente manera:
-
-.. figure:: images/clase11/pickit3_2.png
-
-**Ejercicio 1:**
-
-- Hacer un Hola Mundo en mikroC simplemente para hacer parpadear un led. Escribir el programa en mikroC, compilar para generar el hex, grabarlo con el PicKit 3 y por último probarlo en la placa.
+- `Descargar desde aquí el código fuente mikroC <http://www.vayra.com.ar/piii2017/mikroc.zip>`_
 
