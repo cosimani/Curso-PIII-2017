@@ -183,7 +183,8 @@ Programación de filtros
 	:target: images/clase08/material-consulta-filtros.pdf
 
 
-**Ejercicio 15:** 
+Ejercicio 10:
+============
 
 - Programar esto y controlar en Proteus. 
 - Analizar si la frecuencia de muestreo es la misma con el ADC encendido y apagado. Es decir, realizando el procesamiento de la señal o no.

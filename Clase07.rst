@@ -20,9 +20,14 @@ Clase 07 - PIII 2017
 
 .. figure:: images/clase08/adc_auto_ejer_2.png
 
-**Ejercicio 13:** Programar esto y controlar con el EasydsPIC si la frecuencia de muestreo está bien.
+Ejercicio 10:
+============
+- Programar esto y controlar con el EasydsPIC si la frecuencia de muestreo está bien.
 
-**Ejercicio 14:** Adaptar el programa para el dsPIC33FJ32MC202 y controlarlo en Proteus.
+Ejercicio 11:
+============
+
+- Adaptar el programa para el dsPIC33FJ32MC202 y controlarlo en Proteus.
 
 **Código de ejemplo**
 

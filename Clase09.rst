@@ -123,7 +123,7 @@ Clase 09 - PIII 2017
 	}
 
 
-**Ejercicio 16:** 
+**Ejercicio** 
 
 - Intentar utilizar el código que genera el Filter Designer Tool del mikroC. 
 

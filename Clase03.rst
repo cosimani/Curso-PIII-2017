@@ -13,9 +13,8 @@ Clase 03 - PIII 2017
 
 .. figure:: images/clase03/calculo_fcy.png
 
-
-Ejercicio 6
-+++++++++++
+Ejercicio 3:
+============
 
 - Definir las siguientes funciones:
 
@@ -111,8 +110,8 @@ Analizar el por qué. Para ver claro que no da exacto, probar con tiempos de 250
 	       asm nop;
 	}
 
-Ejercicio 7
-+++++++++++
+Ejercicio 4:
+============
 
 - Mejorar la solución para el ejercicio de los leds encendiendo a 250 us y 133 us.
 
