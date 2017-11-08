@@ -2,8 +2,9 @@
 
 .. _rcs_subversion:
 
-Clase 12 - PIII 2016 (No actualizado)
+Clase 12 - PIII 2017
 ====================
+(Fecha: 8 de noviembre)
 
 Grabación de dsPIC con Pickit 3
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -35,7 +36,7 @@ Grabación de dsPIC con Pickit 3
 
 .. figure:: images/clase11/pickit3_2.png
 
-**Ejercicio 1:**
+**Ejercicio**
 
 - Hacer un Hola Mundo en mikroC simplemente para hacer parpadear un led. Escribir el programa en mikroC, compilar para generar el hex, grabarlo con el PicKit 3 y por último probarlo en la placa.
 
