@@ -183,7 +183,7 @@ Programación de filtros
 	:target: images/clase08/material-consulta-filtros.pdf
 
 
-Ejercicio 10:
+Ejercicio 12:
 ============
 
 - Programar esto y controlar en Proteus. 

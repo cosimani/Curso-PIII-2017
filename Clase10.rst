@@ -31,7 +31,7 @@ Clase 10 - PIII 2017
 
 .. figure:: images/clase11/im2.png	
 
-**Ejemplo 1:** Deseamos averiguar la presencia de frecuencias de 100 Hz y 300 Hz en una señal de audio muestreada a 4kHz.
+**Ejemplo:** Deseamos averiguar la presencia de frecuencias de 100 Hz y 300 Hz en una señal de audio muestreada a 4kHz.
 
 .. figure:: images/clase11/im3.png	
 
@@ -68,7 +68,7 @@ Clase 10 - PIII 2017
 	    }
 	}
 
-**Ejemplo 2:** El cálculo del ejemplo anterior se encuentra optimizado dentro de la biblioteca de funciones de MikroC y se utiliza de la siguiente manera:
+**Ejemplo:** El cálculo del ejemplo anterior se encuentra optimizado dentro de la biblioteca de funciones de MikroC y se utiliza de la siguiente manera:
 
 - Video demostración: https://www.youtube.com/watch?v=n_HLYY41g1E
 
@@ -253,27 +253,27 @@ Clase 10 - PIII 2017
 	}
 
 
-Ejercicio 11:
+Ejercicio 13:
 ============
 
 - Modificar el ejemplo para utilizar la interrupción del ADC.
 
-Ejercicio 12:
+Ejercicio 14:
 ============
 
 - Modificar el ejemplo para utilizar la interrupción del ADC y no usar el timer.
 
-Ejercicio 13:
+Ejercicio 15:
 ============
 
 - En lugar de realizar el análisis cada 100Hz, realizarlo cada 10Hz.
 
-Ejercicio 14:
+Ejercicio 16:
 ============
 
 - Elejir la frecuencia de una cuerda de la guitarra y adaptar el programa para hacer un afinador de esa cuerda.
 
-Ejercicio 15:
+Ejercicio 17:
 ============
 
 - Elegir una frecuencia particular y visualizar en los puertos RB la potencia de esa frecuencia (como un vúmetro digital).
